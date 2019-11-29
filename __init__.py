@@ -7,7 +7,7 @@ from time import perf_counter
 
 bl_info = {
     "name": "Display Collection Names",
-    "description": "Prints the collections of the active object into the 3D View.",
+    "description": "Prints the collection names of the selected objects into the 3D View.",
     "author": "Benajmin Sauder",
     "version": (1, 0),
     "blender": (2, 81, 0),
