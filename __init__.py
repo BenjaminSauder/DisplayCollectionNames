@@ -44,7 +44,7 @@ class Updater():
 
     def find_region(self, width, height):
         ''' 
-        As I know no good way to get the correct context into the draw call back,
+        As I know no good way to get the correct context into the draw callback,
         I do this viewport size comparison - its a bit weak, lets hope its good enough...
         '''
         context = bpy.context
