@@ -21,9 +21,7 @@ class Updater():
     This just encapsulates all relevant data, and a few helper methods to extract placement and texts.
     '''
 
-    collections_text = ""
-    active_object = None
-
+    collections_text = ""    
     last_update = 0
     x = 0
     y = 0
